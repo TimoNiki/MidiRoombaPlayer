@@ -6,12 +6,17 @@
 
 Этот скрипт прошел несколько этапов эволюции:
 
-1. **Основа (MIDI to M300):** Изначальный алгоритм разбора музыкальных данных был создан Alexyu132. (https://github.com/alexyu132/midi-m300)
-2. **Изменение основы:** ethicalhacker7192 переписал проект. (https://github.com/ethicalhacker7192/midi-m300-loop)
+1. **Основа (MIDI to M300):** Изначальный алгоритм разбора музыкальных данных был создан Alexyu132. (https://github.com/alexyu132/midi-m300) 2019.
+2. **Изменение основы:** ethicalhacker7192 переписал проект. (https://github.com/ethicalhacker7192/midi-m300-loop) 
 
 3. **Адаптация под Roomba:** Разработчик adlerweb (https://github.com/adlerweb/midi-roomba) переписал проект, адаптировав его под систему команд iRobot Roomba Open Interface.
 
 4. **Расширенная версия адаптации под Roomba:** TimoNiki (https://github.com/TimoNiki) — глубоко модернизировал скрипт, исправил работу с портами, добавил чтение треков из файлов, управление темпом (BPM) и валидацию ошибок.
+
+Copyright (c) 2019 Alexyu132
+Copyright (c) 2024 ethicalhacker7192
+Copyright (c) 2024 adlerweb
+Copyright (c) 2026 TimoNiki
 
 ### Лицензия
 Весь проект и его производные распространяются под лицензией **GNU General Public License v3.0** в соответствии с требованиями исходного кода. Полный текст — в файле `LICENSE`.
