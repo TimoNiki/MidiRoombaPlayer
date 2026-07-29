@@ -66,7 +66,7 @@ try:
             payload = []
             
             # Рассчет времени звучания пачки нот с учетом BPM
-            # В Roomba длительность 64 = 1 секунда. Корректируем под BPM.
+            #
             time_factor = 60 / args.bpm / 16 
             total_duration_sec = 0
             
