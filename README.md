@@ -14,11 +14,12 @@
 4. **Расширенная версия адаптации под Roomba:** TimoNiki (https://github.com/TimoNiki) — глубоко модернизировал скрипт, исправил работу с портами, добавил чтение треков из файлов, управление темпом (BPM) и валидацию ошибок.
 
 Copyright (c) 2019 Alexyu132
-Copyright (c) 2024 ethicalhacker7192
-Copyright (c) 2024 adlerweb
-Copyright (c) 2026 TimoNiki
 
+Copyright (c) 2024 ethicalhacker7192
+
+Copyright (c) 2024 adlerweb
+
+Copyright (c) 2026 TimoNiki
 ### Лицензия
 Весь проект и его производные распространяются под лицензией **GNU General Public License v3.0** в соответствии с требованиями исходного кода. Полный текст — в файле `LICENSE`.
-
 Midi player for Roomba
