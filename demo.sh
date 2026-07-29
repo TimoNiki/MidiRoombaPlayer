@@ -72,6 +72,5 @@ cat << EOL | python3 player.py
 16 56
 17 63
 15 61
-3 23
 39 61
 EOL
